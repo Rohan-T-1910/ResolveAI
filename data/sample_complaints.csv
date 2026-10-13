@@ -1,0 +1,321 @@
+complaint_id,text,category
+CMP-1136,Counterfeit warning: The luxury perfume delivered under order #ORD25095 is fake. The batch code does not exist and fragrance fades in 5 minutes.,Product Issue
+CMP-1031,Complaint: My order #ORD69638 was supposed to arrive on Monday but it still hasn't arrived. I tried contacting the delivery partner but there is no response. This is extremely frustrating.,Delivery Issue
+CMP-1011,My order #ORD62581 was supposed to arrive 3 days ago but it still hasn't arrived. I tried contacting the delivery partner but there is no response. This is extremely frustrating.,Delivery Issue
+CMP-1132,I received a completely different item than what I ordered in #ORD16428. I ordered blue running shoes size 9 and got red sandals size 7! This is unacceptable service.,Product Issue
+CMP-1252,Please cancel my order #ORD59832 immediately. I ordered the wrong model by mistake and wish to place a fresh order. Please resolve immediately.,Cancellation
+CMP-1176,Complaint: Two-factor authentication is not working on my account priya.sharma92@mail.com. The authenticator code is shown as invalid every single time. Please look into this matter.,Account Issue
+CMP-1233,Extremely disappointed: The Android app keeps crashing immediately upon opening after the latest version update on my Samsung device.,Technical Issue
+CMP-1269,"I submitted a cancellation request for order #ORD34405 three days ago, but received no confirmation email or cancellation acknowledgment. Please look into this matter.",Cancellation
+CMP-1193,Someone changed the primary email address on my account to an unknown email. I suspect my account has been hacked! Please suspend it now.,Account Issue
+CMP-1168,Suspicious login alert received from a foreign IP address for my account rohan.customer@example.com. I cannot log in to change my security credentials.,Account Issue
+CMP-1088,Why has my refund for order #ORD65771 been put on hold? The return inspection passed 4 days ago. Need my money ₹4999 back immediately.,Refund Issue
+CMP-1029,"I received a message that order #ORD11934 was returned to origin because the address was incomplete, but my address has all landmark details.",Delivery Issue
+CMP-1135,"Missing accessories: Order #ORD57953 was supposed to include power adapter and charging cable, but the box arrived with only the main unit.",Product Issue
+CMP-1106,Waiting for refund of ₹1499 on returned product #ORD46458. It has been two weeks since courier collected the item.,Refund Issue
+CMP-1277,"Need urgent cancellation for order #ORD57419. The delivery date shifted from this Friday to next month, which is unacceptable.",Cancellation
+CMP-1172,URGENT: I am not receiving the OTP on my registered mobile number +91-9988776655 to access my ResolveAI account. Please fix the SMS verification.,Account Issue
+CMP-1161,My account linked to amit.kumar@post.org has been locked and I cannot log in even after resetting my password multiple times.,Account Issue
+CMP-1117,"I was promised immediate refund after returning order #ORD81228 due to vendor fault, but customer support is giving vague generic replies.",Refund Issue
+CMP-1191,My account linked to rohan.customer@example.com has been locked and I cannot log in even after resetting my password multiple times.,Account Issue
+CMP-1116,Waiting for refund of ₹12999 on returned product #ORD86931. It has been two weeks since courier collected the item.,Refund Issue
+CMP-1066,"I applied coupon code SAVE20 on order #ORD54020 which showed ₹4999 discount, but my final invoice charged the full amount without discount.",Payment Issue
+CMP-1073,Payment of ₹4999 was deducted via UPI reference #ORD59689 but order status is still showing 'Pending Payment Confirmation' after 24 hours.,Payment Issue
+CMP-1074,Complaint: Someone made an unauthorized transaction of ₹3999 on my saved card with order #ORD65255. I did not authorize this purchase! Urgent action needed.,Payment Issue
+CMP-1192,I am not receiving the OTP on my registered mobile number +91-9123456789 to access my ResolveAI account. Please fix the SMS verification.,Account Issue
+CMP-1246,"Seller cancelled order #ORD57920 claiming out of stock, yet the exact same product is listed on your portal at a higher price of ₹1499. Awaiting swift action.",Cancellation
+CMP-1234,Unable to apply gift card code on cart page. The input field displays 'Internal Server Error 500' every time I click redeem.,Technical Issue
+CMP-1070,I received an SMS alert for debit of ₹7500 for order #ORD45774 which I never initiated. Suspecting fraudulent activity on my account.,Payment Issue
+CMP-1118,Why has my refund for order #ORD63841 been put on hold? The return inspection passed 4 days ago. Need my money ₹499 back immediately.,Refund Issue
+CMP-1121,The product I received for order #ORD95823 is damaged and broken. The packaging was smashed and the item inside is completely unusable.,Product Issue
+CMP-1005,My delivery was rescheduled three times without my consent for order #ORD22676. I need this package urgently for an upcoming event tomorrow.,Delivery Issue
+CMP-1288,"Extremely disappointed: Could you provide clarification on the price-match guarantee? If an item is cheaper on another site, will you refund the difference?",Other
+CMP-1302,Do you offer international shipping to Dubai or Singapore? I could not find clear shipping policy information on your website. Awaiting swift action.,Other
+CMP-1120,"Refund SLA breached: order #ORD23154 cancelled on the 1st of this month, today is the 18th and ₹12999 is still not refunded.",Refund Issue
+CMP-1304,Extremely disappointed: Can you clarify your warranty policy for electronics? Does the manufacturer warranty cover accidental water damage?,Other
+CMP-1196,Two-factor authentication is not working on my account priya.sharma92@mail.com. The authenticator code is shown as invalid every single time.,Account Issue
+CMP-1016,The delivery boy was rude and refused to deliver to the 4th floor for order #ORD44973. He asked me to come down and collect it myself.,Delivery Issue
+CMP-1261,"I requested cancellation of order #ORD27992 within 10 minutes of placing it, but the status still says 'Order Placed' and cannot be cancelled.",Cancellation
+CMP-1170,Unable to save new delivery address in my profile. The address book page fails with error 'Unable to update account profile'.,Account Issue
+CMP-1266,"Seller cancelled order #ORD14763 claiming out of stock, yet the exact same product is listed on your portal at a higher price of ₹7500. Please look into this matter.",Cancellation
+CMP-1110,"Refund SLA breached: order #ORD75338 cancelled on the 1st of this month, today is the 18th and ₹12999 is still not refunded.",Refund Issue
+CMP-1180,Unable to save new delivery address in my profile. The address book page fails with error 'Unable to update account profile'.,Account Issue
+CMP-1226,Unable to upload photos for return request of order #ORD82305. The upload button says 'File format not supported' for standard JPEG files.,Technical Issue
+CMP-1020,Extremely disappointed: Urgent: order #ORD79822 contains essential baby supplies and has not reached after 5 days. Please expedite the dispatch immediately.,Delivery Issue
+CMP-1190,Unable to save new delivery address in my profile. The address book page fails with error 'Unable to update account profile'. Awaiting swift action.,Account Issue
+CMP-1307,I received a promotional marketing newsletter from ResolveAI even though I opted out of marketing communications last month.,Other
+CMP-1293,Please provide feedback to your customer care executive Rahul who assisted me yesterday. His service was polite and helpful.,Other
+CMP-1156,Counterfeit warning: The luxury perfume delivered under order #ORD64239 is fake. The batch code does not exist and fragrance fades in 5 minutes.,Product Issue
+CMP-1049,"My wallet balance of ₹4999 was deducted during order #ORD62227 checkout, but the cart crashed and the balance was not restored.",Payment Issue
+CMP-1179,My account was unexpectedly banned or deactivated without any explanation. I have pending orders #ORD46002 that I need to track. This is unacceptable service.,Account Issue
+CMP-1295,I am a certified handicraft seller and want to know the onboarding procedure to sell my handmade goods on your marketplace.,Other
+CMP-1319,Where is your corporate headquarters located and what is the official grievance officer email for legal correspondence?,Other
+CMP-1183,Someone changed the primary email address on my account to an unknown email. I suspect my account has been hacked! Please suspend it now.,Account Issue
+CMP-1259,"I submitted a cancellation request for order #ORD55237 three days ago, but received no confirmation email or cancellation acknowledgment.",Cancellation
+CMP-1025,Ticket Update: My delivery was rescheduled three times without my consent for order #ORD27342. I need this package urgently for an upcoming event tomorrow.,Delivery Issue
+CMP-1165,URGENT: My loyalty reward points and wallet credits worth ₹999 disappeared from my account balance overnight. Kindly restore them.,Account Issue
+CMP-1100,"Refund SLA breached: order #ORD96662 cancelled on the 1st of this month, today is the 18th and ₹2450 is still not refunded.",Refund Issue
+CMP-1194,"I want to update my registered phone number from +91-9123456789 to my new number, but the profile settings page keeps throwing a server error. Kindly assist ASAP.",Account Issue
+CMP-1034,Tracking status for shipment #ORD40828 has been stuck at the sorting hub for over 4 days. When will my package be dispatched?,Delivery Issue
+CMP-1099,Replacement was not available so customer care promised full refund of ₹12999 for order #ORD47056. It is still not reflecting in my statement.,Refund Issue
+CMP-1215,The order tracking page shows a blank screen and infinite loading spinner for order #ORD68183 across both Chrome and Safari browsers.,Technical Issue
+CMP-1239,"The wishlist feature is broken. Whenever I add an item, it removes all previously saved products from my wishlist. Awaiting swift action.",Technical Issue
+CMP-1017,"Shipment #ORD44522 was dispatched via Express Delivery which I paid ₹1499 extra for, yet it is 11 days late. I demand a delivery fee refund. Awaiting swift action.",Delivery Issue
+CMP-1008,Order #ORD69429 has been out for delivery since 8 AM today and it is now past 10 PM. No delivery made and driver phone is switched off.,Delivery Issue
+CMP-1280,Cancel order #ORD17567 and ensure no delivery attempt is made as I have shifted to another city. Awaiting swift action.,Cancellation
+CMP-1080,Complaint: I received an SMS alert for debit of ₹499 for order #ORD84177 which I never initiated. Suspecting fraudulent activity on my account. Kindly assist ASAP.,Payment Issue
+CMP-1042,Double debit occurred on my credit card! I was charged twice for the amount of ₹499 under transaction #ORD15778. Kindly reverse the duplicate charge.,Payment Issue
+CMP-1203,The Android app keeps crashing immediately upon opening after the latest version update on my Samsung device.,Technical Issue
+CMP-1241,"I requested cancellation of order #ORD41552 within 10 minutes of placing it, but the status still says 'Order Placed' and cannot be cancelled.",Cancellation
+CMP-1069,"My wallet balance of ₹7500 was deducted during order #ORD61116 checkout, but the cart crashed and the balance was not restored.",Payment Issue
+CMP-1231,"When I try to checkout on the mobile app, the payment gateway freezes at the OTP screen and throws error code ERR_502.",Technical Issue
+CMP-1112,"Return was picked up on Monday for order #ORD11792, but the refund status is still stuck on 'Inspection In Progress'. Please release my ₹7500.",Refund Issue
+CMP-1297,I received a promotional marketing newsletter from ResolveAI even though I opted out of marketing communications last month.,Other
+CMP-1238,Push notifications are not functioning. I missed the flash sale because your mobile application failed to send notifications.,Technical Issue
+CMP-1205,The order tracking page shows a blank screen and infinite loading spinner for order #ORD76535 across both Chrome and Safari browsers.,Technical Issue
+CMP-1001,My order #ORD93810 was supposed to arrive on Monday but it still hasn't arrived. I tried contacting the delivery partner but there is no response. This is extremely frustrating.,Delivery Issue
+CMP-1050,I received an SMS alert for debit of ₹4999 for order #ORD80282 which I never initiated. Suspecting fraudulent activity on my account.,Payment Issue
+CMP-1092,"Return was picked up on Monday for order #ORD93606, but the refund status is still stuck on 'Inspection In Progress'. Please release my ₹12999.",Refund Issue
+CMP-1146,Counterfeit warning: The luxury perfume delivered under order #ORD26505 is fake. The batch code does not exist and fragrance fades in 5 minutes.,Product Issue
+CMP-1114,Extremely disappointed: My refund for cancelled item in order #ORD71894 was refunded to store credits instead of my original payment method. I want money in my bank account.,Refund Issue
+CMP-1174,"I want to update my registered phone number from +91-9988776655 to my new number, but the profile settings page keeps throwing a server error.",Account Issue
+CMP-1314,Can you clarify your warranty policy for electronics? Does the manufacturer warranty cover accidental water damage?,Other
+CMP-1004,Complaint: Tracking status for shipment #ORD10851 has been stuck at the sorting hub for over 14 days. When will my package be dispatched? Kindly assist ASAP.,Delivery Issue
+CMP-1051,I was charged ₹999 from my bank account for order #ORD15014 but your website showed payment failed and the order was not placed.,Payment Issue
+CMP-1056,"I applied coupon code SAVE20 on order #ORD81819 which showed ₹499 discount, but my final invoice charged the full amount without discount.",Payment Issue
+CMP-1224,HELP NEEDED: Unable to apply gift card code on cart page. The input field displays 'Internal Server Error 500' every time I click redeem.,Technical Issue
+CMP-1225,The order tracking page shows a blank screen and infinite loading spinner for order #ORD41029 across both Chrome and Safari browsers.,Technical Issue
+CMP-1024,Tracking status for shipment #ORD14117 has been stuck at the sorting hub for over 4 days. When will my package be dispatched?,Delivery Issue
+CMP-1227,Complaint: Item prices in cart change randomly during checkout steps from ₹7500 to a higher amount without any tax explanation.,Technical Issue
+CMP-1245,Why was my order #ORD99181 cancelled by the seller without any prior notice or phone confirmation? I had waited 5 days for it.,Cancellation
+CMP-1171,URGENT: My account linked to rohan.customer@example.com has been locked and I cannot log in even after resetting my password multiple times.,Account Issue
+CMP-1060,I received an SMS alert for debit of ₹12999 for order #ORD19545 which I never initiated. Suspecting fraudulent activity on my account.,Payment Issue
+CMP-1310,I have general inquiry regarding the upcoming festive sale discounts and early bird access for premium members.,Other
+CMP-1213,The Android app keeps crashing immediately upon opening after the latest version update on my Samsung device.,Technical Issue
+CMP-1247,"Need urgent cancellation for order #ORD53652. The delivery date shifted from this Friday to next month, which is unacceptable. Please look into this matter.",Cancellation
+CMP-1021,My order #ORD65461 was supposed to arrive on Monday but it still hasn't arrived. I tried contacting the delivery partner but there is no response. This is extremely frustrating.,Delivery Issue
+CMP-1071,I was charged ₹12999 from my bank account for order #ORD31632 but your website showed payment failed and the order was not placed.,Payment Issue
+CMP-1023,The courier agent called me once and immediately marked the order #ORD87110 as delivery failed due to customer unavailable. I was at home all day! Please resolve immediately.,Delivery Issue
+CMP-1122,I received a completely different item than what I ordered in #ORD20527. I ordered blue running shoes size 9 and got red sandals size 7!,Product Issue
+CMP-1032,"Package for order #ORD17665 shows as delivered on the tracking page, but I have not received anything at my doorstep. Please investigate where courier left it.",Delivery Issue
+CMP-1095,The refund reference number provided for order #ORD89471 is rejected by my bank stating no such transfer was initiated. Please verify with finance.,Refund Issue
+CMP-1147,Product dimensions mentioned on product page for #ORD53064 were completely wrong. The furniture does not fit in my room at all. Awaiting swift action.,Product Issue
+CMP-1276,"Seller cancelled order #ORD71712 claiming out of stock, yet the exact same product is listed on your portal at a higher price of ₹2450.",Cancellation
+CMP-1292,Do you offer international shipping to Dubai or Singapore? I could not find clear shipping policy information on your website.,Other
+CMP-1232,Your website search bar is completely broken. Searching for 'wireless headphones' returns zero results or crashes with a blank white page. Please look into this matter.,Technical Issue
+CMP-1219,"The wishlist feature is broken. Whenever I add an item, it removes all previously saved products from my wishlist.",Technical Issue
+CMP-1151,The product I received for order #ORD90623 is damaged and broken. The packaging was smashed and the item inside is completely unusable.,Product Issue
+CMP-1015,My delivery was rescheduled three times without my consent for order #ORD88104. I need this package urgently for an upcoming event tomorrow. Please look into this matter.,Delivery Issue
+CMP-1160,Product seal was broken when order #ORD85748 was delivered. The internal packaging was torn and parts were loose inside.,Product Issue
+CMP-1104,My refund for cancelled item in order #ORD13390 was refunded to store credits instead of my original payment method. I want money in my bank account.,Refund Issue
+CMP-1006,The delivery boy was rude and refused to deliver to the 4th floor for order #ORD59615. He asked me to come down and collect it myself.,Delivery Issue
+CMP-1166,Two-factor authentication is not working on my account sneha.k@webmail.in. The authenticator code is shown as invalid every single time.,Account Issue
+CMP-1009,"I received a message that order #ORD99593 was returned to origin because the address was incomplete, but my address has all landmark details. Kindly assist ASAP.",Delivery Issue
+CMP-1041,Ticket Update: I was charged ₹3999 from my bank account for order #ORD93130 but your website showed payment failed and the order was not placed.,Payment Issue
+CMP-1058,"HELP NEEDED: The EMI tenure chosen was 6 months with zero interest, but my bank statement shows interest added and a processing fee for order #ORD32241.",Payment Issue
+CMP-1188,Suspicious login alert received from a foreign IP address for my account priya.sharma92@mail.com. I cannot log in to change my security credentials.,Account Issue
+CMP-1236,Unable to upload photos for return request of order #ORD30719. The upload button says 'File format not supported' for standard JPEG files. This is unacceptable service.,Technical Issue
+CMP-1144,Quality of the clothing material in order #ORD81364 is terrible and does not match the product pictures shown on your website.,Product Issue
+CMP-1013,The courier agent called me once and immediately marked the order #ORD86622 as delivery failed due to customer unavailable. I was at home all day! Kindly assist ASAP.,Delivery Issue
+CMP-1061,I was charged ₹2450 from my bank account for order #ORD62383 but your website showed payment failed and the order was not placed.,Payment Issue
+CMP-1301,HELP NEEDED: I would like to inquire about bulk corporate gifting options and whether you provide GST tax invoices for business purchases.,Other
+CMP-1184,"I want to update my registered phone number from +91-9876543210 to my new number, but the profile settings page keeps throwing a server error.",Account Issue
+CMP-1149,"Ticket Update: The laptop battery in order #ORD41186 drains in 30 minutes from 100%. Defective unit received, need replacement ASAP.",Product Issue
+CMP-1134,Quality of the clothing material in order #ORD27224 is terrible and does not match the product pictures shown on your website.,Product Issue
+CMP-1313,Please provide feedback to your customer care executive Rahul who assisted me yesterday. His service was polite and helpful.,Other
+CMP-1059,"My wallet balance of ₹2450 was deducted during order #ORD39444 checkout, but the cart crashed and the balance was not restored.",Payment Issue
+CMP-1281,I would like to inquire about bulk corporate gifting options and whether you provide GST tax invoices for business purchases. Please resolve immediately.,Other
+CMP-1181,My account linked to priya.sharma92@mail.com has been locked and I cannot log in even after resetting my password multiple times.,Account Issue
+CMP-1090,"Refund SLA breached: order #ORD87278 cancelled on the 1st of this month, today is the 18th and ₹3999 is still not refunded.",Refund Issue
+CMP-1037,"Complaint: Shipment #ORD23104 was dispatched via Express Delivery which I paid ₹999 extra for, yet it is 11 days late. I demand a delivery fee refund.",Delivery Issue
+CMP-1208,Ticket Update: Push notifications are not functioning. I missed the flash sale because your mobile application failed to send notifications. Awaiting swift action.,Technical Issue
+CMP-1186,Two-factor authentication is not working on my account sneha.k@webmail.in. The authenticator code is shown as invalid every single time.,Account Issue
+CMP-1107,"I was promised immediate refund after returning order #ORD52081 due to vendor fault, but customer support is giving vague generic replies.",Refund Issue
+CMP-1076,"I applied coupon code SAVE20 on order #ORD41266 which showed ₹1499 discount, but my final invoice charged the full amount without discount.",Payment Issue
+CMP-1027,"HELP NEEDED: Shipment #ORD24322 was dispatched via Express Delivery which I paid ₹2450 extra for, yet it is 6 days late. I demand a delivery fee refund.",Delivery Issue
+CMP-1124,Complaint: Quality of the clothing material in order #ORD66881 is terrible and does not match the product pictures shown on your website.,Product Issue
+CMP-1282,Do you offer international shipping to Dubai or Singapore? I could not find clear shipping policy information on your website.,Other
+CMP-1089,Ticket Update: Replacement was not available so customer care promised full refund of ₹4999 for order #ORD35242. It is still not reflecting in my statement.,Refund Issue
+CMP-1039,"I received a message that order #ORD95717 was returned to origin because the address was incomplete, but my address has all landmark details. Please resolve immediately.",Delivery Issue
+CMP-1260,Cancel order #ORD43612 and ensure no delivery attempt is made as I have shifted to another city.,Cancellation
+CMP-1217,HELP NEEDED: Item prices in cart change randomly during checkout steps from ₹499 to a higher amount without any tax explanation.,Technical Issue
+CMP-1283,Please provide feedback to your customer care executive Rahul who assisted me yesterday. His service was polite and helpful.,Other
+CMP-1300,I have general inquiry regarding the upcoming festive sale discounts and early bird access for premium members.,Other
+CMP-1177,"I have been trying to delete my account and personal data per privacy laws, but the delete account button is non-functional.",Account Issue
+CMP-1218,Ticket Update: Push notifications are not functioning. I missed the flash sale because your mobile application failed to send notifications.,Technical Issue
+CMP-1143,The electronic appliance delivered under order #ORD14288 does not turn on. It appears to be a refurbished or used unit sold as brand new. This is unacceptable service.,Product Issue
+CMP-1133,The electronic appliance delivered under order #ORD98835 does not turn on. It appears to be a refurbished or used unit sold as brand new. This is unacceptable service.,Product Issue
+CMP-1131,The product I received for order #ORD48696 is damaged and broken. The packaging was smashed and the item inside is completely unusable.,Product Issue
+CMP-1057,I was charged an unexpected convenience fee of ₹12999 on order #ORD52237 that was never disclosed before the final payment swipe.,Payment Issue
+CMP-1067,I was charged an unexpected convenience fee of ₹999 on order #ORD38043 that was never disclosed before the final payment swipe. Kindly assist ASAP.,Payment Issue
+CMP-1026,The delivery boy was rude and refused to deliver to the 4th floor for order #ORD63883. He asked me to come down and collect it myself.,Delivery Issue
+CMP-1308,"Could you provide clarification on the price-match guarantee? If an item is cheaper on another site, will you refund the difference?",Other
+CMP-1162,Complaint: I am not receiving the OTP on my registered mobile number +91-9876543210 to access my ResolveAI account. Please fix the SMS verification.,Account Issue
+CMP-1240,"Ticket Update: Session timeout bug: The app logs me out every 60 seconds while browsing products, making it impossible to shop.",Technical Issue
+CMP-1251,"Extremely disappointed: I requested cancellation of order #ORD95929 within 10 minutes of placing it, but the status still says 'Order Placed' and cannot be cancelled.",Cancellation
+CMP-1222,Ticket Update: Your website search bar is completely broken. Searching for 'wireless headphones' returns zero results or crashes with a blank white page.,Technical Issue
+CMP-1207,Item prices in cart change randomly during checkout steps from ₹4999 to a higher amount without any tax explanation.,Technical Issue
+CMP-1012,"Package for order #ORD94259 shows as delivered on the tracking page, but I have not received anything at my doorstep. Please investigate where courier left it.",Delivery Issue
+CMP-1157,URGENT: Product dimensions mentioned on product page for #ORD43408 were completely wrong. The furniture does not fit in my room at all. Please resolve immediately.,Product Issue
+CMP-1318,"Could you provide clarification on the price-match guarantee? If an item is cheaper on another site, will you refund the difference?",Other
+CMP-1091,I cancelled order #ORD80010 over 7 days ago. Customer care promised refund of ₹1499 within 5 business days but nothing is credited yet.,Refund Issue
+CMP-1064,Someone made an unauthorized transaction of ₹1499 on my saved card with order #ORD68446. I did not authorize this purchase! Urgent action needed.,Payment Issue
+CMP-1255,Why was my order #ORD72701 cancelled by the seller without any prior notice or phone confirmation? I had waited 8 days for it.,Cancellation
+CMP-1022,"Package for order #ORD58944 shows as delivered on the tracking page, but I have not received anything at my doorstep. Please investigate where courier left it.",Delivery Issue
+CMP-1164,"I want to update my registered phone number from +91-9123456789 to my new number, but the profile settings page keeps throwing a server error.",Account Issue
+CMP-1256,"Seller cancelled order #ORD99226 claiming out of stock, yet the exact same product is listed on your portal at a higher price of ₹3999.",Cancellation
+CMP-1272,Please cancel my order #ORD53204 immediately. I ordered the wrong model by mistake and wish to place a fresh order.,Cancellation
+CMP-1093,You processed only ₹249 refund instead of the full purchase amount of ₹499 for returned order #ORD34164. Where is the balance? Please resolve immediately.,Refund Issue
+CMP-1010,Urgent: order #ORD45382 contains essential baby supplies and has not reached after 13 days. Please expedite the dispatch immediately.,Delivery Issue
+CMP-1204,Unable to apply gift card code on cart page. The input field displays 'Internal Server Error 500' every time I click redeem.,Technical Issue
+CMP-1108,Why has my refund for order #ORD82102 been put on hold? The return inspection passed 4 days ago. Need my money ₹499 back immediately.,Refund Issue
+CMP-1130,Product seal was broken when order #ORD73335 was delivered. The internal packaging was torn and parts were loose inside.,Product Issue
+CMP-1137,Product dimensions mentioned on product page for #ORD57942 were completely wrong. The furniture does not fit in my room at all.,Product Issue
+CMP-1103,You processed only ₹6499 refund instead of the full purchase amount of ₹12999 for returned order #ORD74722. Where is the balance?,Refund Issue
+CMP-1289,Where is your corporate headquarters located and what is the official grievance officer email for legal correspondence?,Other
+CMP-1306,The terms and conditions page on your website has outdated copyright information from 2021. Please review your legal documentation.,Other
+CMP-1264,"I cancelled order #ORD72350 yesterday, but today I received an SMS saying the order has been packed and dispatched! Stop shipment. Please resolve immediately.",Cancellation
+CMP-1115,The refund reference number provided for order #ORD27892 is rejected by my bank stating no such transfer was initiated. Please verify with finance. This is unacceptable service.,Refund Issue
+CMP-1019,"Ticket Update: I received a message that order #ORD50306 was returned to origin because the address was incomplete, but my address has all landmark details.",Delivery Issue
+CMP-1214,Unable to apply gift card code on cart page. The input field displays 'Internal Server Error 500' every time I click redeem.,Technical Issue
+CMP-1109,Extremely disappointed: Replacement was not available so customer care promised full refund of ₹499 for order #ORD62976. It is still not reflecting in my statement.,Refund Issue
+CMP-1262,Please cancel my order #ORD79604 immediately. I ordered the wrong model by mistake and wish to place a fresh order.,Cancellation
+CMP-1169,My account was unexpectedly banned or deactivated without any explanation. I have pending orders #ORD27987 that I need to track.,Account Issue
+CMP-1065,Complaint: My payment gateway timed out during checkout for ₹12999. The money left my account but no order confirmation email was sent.,Payment Issue
+CMP-1062,Double debit occurred on my credit card! I was charged twice for the amount of ₹12999 under transaction #ORD77889. Kindly reverse the duplicate charge.,Payment Issue
+CMP-1271,"I requested cancellation of order #ORD72580 within 10 minutes of placing it, but the status still says 'Order Placed' and cannot be cancelled.",Cancellation
+CMP-1220,"Session timeout bug: The app logs me out every 60 seconds while browsing products, making it impossible to shop.",Technical Issue
+CMP-1036,The delivery boy was rude and refused to deliver to the 4th floor for order #ORD69929. He asked me to come down and collect it myself.,Delivery Issue
+CMP-1128,Ticket Update: Item received in order #ORD97404 is past its expiration date! Manufacturing date is 2023 and expired 3 months ago. Highly irresponsible.,Product Issue
+CMP-1173,Someone changed the primary email address on my account to an unknown email. I suspect my account has been hacked! Please suspend it now.,Account Issue
+CMP-1105,The refund reference number provided for order #ORD98117 is rejected by my bank stating no such transfer was initiated. Please verify with finance.,Refund Issue
+CMP-1018,Complaint: Order #ORD80697 has been out for delivery since 8 AM today and it is now past 10 PM. No delivery made and driver phone is switched off.,Delivery Issue
+CMP-1237,HELP NEEDED: Item prices in cart change randomly during checkout steps from ₹7500 to a higher amount without any tax explanation.,Technical Issue
+CMP-1279,"Ticket Update: I submitted a cancellation request for order #ORD74071 three days ago, but received no confirmation email or cancellation acknowledgment.",Cancellation
+CMP-1242,Please cancel my order #ORD95755 immediately. I ordered the wrong model by mistake and wish to place a fresh order.,Cancellation
+CMP-1054,Someone made an unauthorized transaction of ₹3999 on my saved card with order #ORD26334. I did not authorize this purchase! Urgent action needed.,Payment Issue
+CMP-1290,I have general inquiry regarding the upcoming festive sale discounts and early bird access for premium members.,Other
+CMP-1119,Replacement was not available so customer care promised full refund of ₹1499 for order #ORD95461. It is still not reflecting in my statement.,Refund Issue
+CMP-1187,"Ticket Update: I have been trying to delete my account and personal data per privacy laws, but the delete account button is non-functional.",Account Issue
+CMP-1296,The terms and conditions page on your website has outdated copyright information from 2021. Please review your legal documentation. This is unacceptable service.,Other
+CMP-1141,The product I received for order #ORD80457 is damaged and broken. The packaging was smashed and the item inside is completely unusable.,Product Issue
+CMP-1197,"I have been trying to delete my account and personal data per privacy laws, but the delete account button is non-functional. Awaiting swift action.",Account Issue
+CMP-1175,My loyalty reward points and wallet credits worth ₹999 disappeared from my account balance overnight. Kindly restore them.,Account Issue
+CMP-1309,Extremely disappointed: Where is your corporate headquarters located and what is the official grievance officer email for legal correspondence?,Other
+CMP-1140,Product seal was broken when order #ORD63516 was delivered. The internal packaging was torn and parts were loose inside. Awaiting swift action.,Product Issue
+CMP-1152,I received a completely different item than what I ordered in #ORD17972. I ordered blue running shoes size 9 and got red sandals size 7!,Product Issue
+CMP-1229,"The wishlist feature is broken. Whenever I add an item, it removes all previously saved products from my wishlist. Please resolve immediately.",Technical Issue
+CMP-1145,"Complaint: Missing accessories: Order #ORD69600 was supposed to include power adapter and charging cable, but the box arrived with only the main unit.",Product Issue
+CMP-1030,Urgent: order #ORD62565 contains essential baby supplies and has not reached after 5 days. Please expedite the dispatch immediately.,Delivery Issue
+CMP-1094,My refund for cancelled item in order #ORD29887 was refunded to store credits instead of my original payment method. I want money in my bank account. Kindly assist ASAP.,Refund Issue
+CMP-1257,"Need urgent cancellation for order #ORD49008. The delivery date shifted from this Friday to next month, which is unacceptable.",Cancellation
+CMP-1202,Your website search bar is completely broken. Searching for 'wireless headphones' returns zero results or crashes with a blank white page.,Technical Issue
+CMP-1210,"Session timeout bug: The app logs me out every 60 seconds while browsing products, making it impossible to shop.",Technical Issue
+CMP-1275,Why was my order #ORD72676 cancelled by the seller without any prior notice or phone confirmation? I had waited 10 days for it.,Cancellation
+CMP-1097,"I was promised immediate refund after returning order #ORD37235 due to vendor fault, but customer support is giving vague generic replies.",Refund Issue
+CMP-1084,HELP NEEDED: My refund for cancelled item in order #ORD89997 was refunded to store credits instead of my original payment method. I want money in my bank account.,Refund Issue
+CMP-1063,Payment of ₹4999 was deducted via UPI reference #ORD97500 but order status is still showing 'Pending Payment Confirmation' after 24 hours.,Payment Issue
+CMP-1201,"When I try to checkout on the mobile app, the payment gateway freezes at the OTP screen and throws error code ERR_502.",Technical Issue
+CMP-1148,Complaint: Item received in order #ORD80807 is past its expiration date! Manufacturing date is 2023 and expired 3 months ago. Highly irresponsible.,Product Issue
+CMP-1126,Counterfeit warning: The luxury perfume delivered under order #ORD64008 is fake. The batch code does not exist and fragrance fades in 5 minutes.,Product Issue
+CMP-1312,Do you offer international shipping to Dubai or Singapore? I could not find clear shipping policy information on your website.,Other
+CMP-1298,"Could you provide clarification on the price-match guarantee? If an item is cheaper on another site, will you refund the difference?",Other
+CMP-1189,My account was unexpectedly banned or deactivated without any explanation. I have pending orders #ORD39693 that I need to track.,Account Issue
+CMP-1270,Cancel order #ORD93719 and ensure no delivery attempt is made as I have shifted to another city. Awaiting swift action.,Cancellation
+CMP-1082,"Return was picked up on Monday for order #ORD95256, but the refund status is still stuck on 'Inspection In Progress'. Please release my ₹3999.",Refund Issue
+CMP-1250,Cancel order #ORD98317 and ensure no delivery attempt is made as I have shifted to another city.,Cancellation
+CMP-1291,I would like to inquire about bulk corporate gifting options and whether you provide GST tax invoices for business purchases.,Other
+CMP-1081,I cancelled order #ORD74251 over 9 days ago. Customer care promised refund of ₹999 within 5 business days but nothing is credited yet.,Refund Issue
+CMP-1123,The electronic appliance delivered under order #ORD73956 does not turn on. It appears to be a refurbished or used unit sold as brand new.,Product Issue
+CMP-1052,Double debit occurred on my credit card! I was charged twice for the amount of ₹7500 under transaction #ORD25157. Kindly reverse the duplicate charge. Please look into this matter.,Payment Issue
+CMP-1178,Ticket Update: Suspicious login alert received from a foreign IP address for my account priya.sharma92@mail.com. I cannot log in to change my security credentials.,Account Issue
+CMP-1273,Extremely disappointed: The cancel button is disabled on my active order #ORD40972 even though the item has not been dispatched yet.,Cancellation
+CMP-1083,You processed only ₹2499 refund instead of the full purchase amount of ₹4999 for returned order #ORD45179. Where is the balance?,Refund Issue
+CMP-1077,I was charged an unexpected convenience fee of ₹4999 on order #ORD43586 that was never disclosed before the final payment swipe. This is unacceptable service.,Payment Issue
+CMP-1258,Accidentally placed duplicate order #ORD45842. Please cancel this duplicate order and keep the original one active.,Cancellation
+CMP-1153,The electronic appliance delivered under order #ORD20589 does not turn on. It appears to be a refurbished or used unit sold as brand new.,Product Issue
+CMP-1287,I received a promotional marketing newsletter from ResolveAI even though I opted out of marketing communications last month.,Other
+CMP-1244,"I cancelled order #ORD47827 yesterday, but today I received an SMS saying the order has been packed and dispatched! Stop shipment.",Cancellation
+CMP-1211,"When I try to checkout on the mobile app, the payment gateway freezes at the OTP screen and throws error code ERR_502.",Technical Issue
+CMP-1294,Can you clarify your warranty policy for electronics? Does the manufacturer warranty cover accidental water damage?,Other
+CMP-1111,I cancelled order #ORD67424 over 4 days ago. Customer care promised refund of ₹12999 within 5 business days but nothing is credited yet.,Refund Issue
+CMP-1249,"I submitted a cancellation request for order #ORD79774 three days ago, but received no confirmation email or cancellation acknowledgment.",Cancellation
+CMP-1113,You processed only ₹6499 refund instead of the full purchase amount of ₹12999 for returned order #ORD30181. Where is the balance?,Refund Issue
+CMP-1085,HELP NEEDED: The refund reference number provided for order #ORD43862 is rejected by my bank stating no such transfer was initiated. Please verify with finance. Kindly assist ASAP.,Refund Issue
+CMP-1299,Where is your corporate headquarters located and what is the official grievance officer email for legal correspondence?,Other
+CMP-1206,Unable to upload photos for return request of order #ORD12128. The upload button says 'File format not supported' for standard JPEG files.,Technical Issue
+CMP-1098,Why has my refund for order #ORD30517 been put on hold? The return inspection passed 4 days ago. Need my money ₹499 back immediately.,Refund Issue
+CMP-1159,"The laptop battery in order #ORD63845 drains in 30 minutes from 100%. Defective unit received, need replacement ASAP.",Product Issue
+CMP-1265,Why was my order #ORD95498 cancelled by the seller without any prior notice or phone confirmation? I had waited 11 days for it.,Cancellation
+CMP-1268,Ticket Update: Accidentally placed duplicate order #ORD27589. Please cancel this duplicate order and keep the original one active.,Cancellation
+CMP-1102,"Return was picked up on Monday for order #ORD47828, but the refund status is still stuck on 'Inspection In Progress'. Please release my ₹12999.",Refund Issue
+CMP-1243,The cancel button is disabled on my active order #ORD57943 even though the item has not been dispatched yet. Please look into this matter.,Cancellation
+CMP-1002,"HELP NEEDED: Package for order #ORD98696 shows as delivered on the tracking page, but I have not received anything at my doorstep. Please investigate where courier left it.",Delivery Issue
+CMP-1078,"The EMI tenure chosen was 6 months with zero interest, but my bank statement shows interest added and a processing fee for order #ORD24168. Please look into this matter.",Payment Issue
+CMP-1035,My delivery was rescheduled three times without my consent for order #ORD64948. I need this package urgently for an upcoming event tomorrow. This is unacceptable service.,Delivery Issue
+CMP-1028,Order #ORD42742 has been out for delivery since 8 AM today and it is now past 10 PM. No delivery made and driver phone is switched off.,Delivery Issue
+CMP-1235,The order tracking page shows a blank screen and infinite loading spinner for order #ORD94136 across both Chrome and Safari browsers.,Technical Issue
+CMP-1101,I cancelled order #ORD28643 over 3 days ago. Customer care promised refund of ₹999 within 5 business days but nothing is credited yet.,Refund Issue
+CMP-1254,"I cancelled order #ORD71814 yesterday, but today I received an SMS saying the order has been packed and dispatched! Stop shipment.",Cancellation
+CMP-1320,Extremely disappointed: I have general inquiry regarding the upcoming festive sale discounts and early bird access for premium members.,Other
+CMP-1129,"The laptop battery in order #ORD87014 drains in 30 minutes from 100%. Defective unit received, need replacement ASAP. Kindly assist ASAP.",Product Issue
+CMP-1305,I am a certified handicraft seller and want to know the onboarding procedure to sell my handmade goods on your marketplace.,Other
+CMP-1040,Urgent: order #ORD24029 contains essential baby supplies and has not reached after 7 days. Please expedite the dispatch immediately.,Delivery Issue
+CMP-1248,Accidentally placed duplicate order #ORD51750. Please cancel this duplicate order and keep the original one active.,Cancellation
+CMP-1154,Quality of the clothing material in order #ORD81874 is terrible and does not match the product pictures shown on your website.,Product Issue
+CMP-1216,Unable to upload photos for return request of order #ORD17518. The upload button says 'File format not supported' for standard JPEG files.,Technical Issue
+CMP-1142,I received a completely different item than what I ordered in #ORD30253. I ordered blue running shoes size 9 and got red sandals size 7!,Product Issue
+CMP-1223,The Android app keeps crashing immediately upon opening after the latest version update on my Samsung device.,Technical Issue
+CMP-1086,Waiting for refund of ₹2450 on returned product #ORD74038. It has been two weeks since courier collected the item. Awaiting swift action.,Refund Issue
+CMP-1033,URGENT: The courier agent called me once and immediately marked the order #ORD79615 as delivery failed due to customer unavailable. I was at home all day!,Delivery Issue
+CMP-1075,My payment gateway timed out during checkout for ₹499. The money left my account but no order confirmation email was sent.,Payment Issue
+CMP-1253,The cancel button is disabled on my active order #ORD67807 even though the item has not been dispatched yet.,Cancellation
+CMP-1274,"I cancelled order #ORD50760 yesterday, but today I received an SMS saying the order has been packed and dispatched! Stop shipment.",Cancellation
+CMP-1155,"Missing accessories: Order #ORD22999 was supposed to include power adapter and charging cable, but the box arrived with only the main unit.",Product Issue
+CMP-1317,I received a promotional marketing newsletter from ResolveAI even though I opted out of marketing communications last month.,Other
+CMP-1072,Double debit occurred on my credit card! I was charged twice for the amount of ₹499 under transaction #ORD96900. Kindly reverse the duplicate charge. This is unacceptable service.,Payment Issue
+CMP-1278,HELP NEEDED: Accidentally placed duplicate order #ORD80341. Please cancel this duplicate order and keep the original one active.,Cancellation
+CMP-1315,Ticket Update: I am a certified handicraft seller and want to know the onboarding procedure to sell my handmade goods on your marketplace.,Other
+CMP-1087,"I was promised immediate refund after returning order #ORD63005 due to vendor fault, but customer support is giving vague generic replies.",Refund Issue
+CMP-1267,"Need urgent cancellation for order #ORD89007. The delivery date shifted from this Friday to next month, which is unacceptable.",Cancellation
+CMP-1125,"Missing accessories: Order #ORD16028 was supposed to include power adapter and charging cable, but the box arrived with only the main unit. Please look into this matter.",Product Issue
+CMP-1044,Someone made an unauthorized transaction of ₹7500 on my saved card with order #ORD29410. I did not authorize this purchase! Urgent action needed.,Payment Issue
+CMP-1199,My account was unexpectedly banned or deactivated without any explanation. I have pending orders #ORD71925 that I need to track.,Account Issue
+CMP-1212,Your website search bar is completely broken. Searching for 'wireless headphones' returns zero results or crashes with a blank white page.,Technical Issue
+CMP-1150,Extremely disappointed: Product seal was broken when order #ORD18330 was delivered. The internal packaging was torn and parts were loose inside.,Product Issue
+CMP-1007,"Shipment #ORD16006 was dispatched via Express Delivery which I paid ₹2450 extra for, yet it is 15 days late. I demand a delivery fee refund.",Delivery Issue
+CMP-1198,Complaint: Suspicious login alert received from a foreign IP address for my account arjun.v@domain.net. I cannot log in to change my security credentials.,Account Issue
+CMP-1167,"I have been trying to delete my account and personal data per privacy laws, but the delete account button is non-functional.",Account Issue
+CMP-1048,"The EMI tenure chosen was 6 months with zero interest, but my bank statement shows interest added and a processing fee for order #ORD39154.",Payment Issue
+CMP-1284,Can you clarify your warranty policy for electronics? Does the manufacturer warranty cover accidental water damage?,Other
+CMP-1182,I am not receiving the OTP on my registered mobile number +91-7766554433 to access my ResolveAI account. Please fix the SMS verification. Kindly assist ASAP.,Account Issue
+CMP-1046,"Complaint: I applied coupon code SAVE20 on order #ORD63264 which showed ₹1499 discount, but my final invoice charged the full amount without discount.",Payment Issue
+CMP-1014,Tracking status for shipment #ORD21915 has been stuck at the sorting hub for over 4 days. When will my package be dispatched?,Delivery Issue
+CMP-1303,Please provide feedback to your customer care executive Rahul who assisted me yesterday. His service was polite and helpful.,Other
+CMP-1209,"The wishlist feature is broken. Whenever I add an item, it removes all previously saved products from my wishlist.",Technical Issue
+CMP-1263,The cancel button is disabled on my active order #ORD23178 even though the item has not been dispatched yet.,Cancellation
+CMP-1285,I am a certified handicraft seller and want to know the onboarding procedure to sell my handmade goods on your marketplace.,Other
+CMP-1286,HELP NEEDED: The terms and conditions page on your website has outdated copyright information from 2021. Please review your legal documentation.,Other
+CMP-1230,"Session timeout bug: The app logs me out every 60 seconds while browsing products, making it impossible to shop.",Technical Issue
+CMP-1221,"When I try to checkout on the mobile app, the payment gateway freezes at the OTP screen and throws error code ERR_502.",Technical Issue
+CMP-1096,Waiting for refund of ₹7500 on returned product #ORD87139. It has been two weeks since courier collected the item.,Refund Issue
+CMP-1045,My payment gateway timed out during checkout for ₹4999. The money left my account but no order confirmation email was sent.,Payment Issue
+CMP-1068,"Complaint: The EMI tenure chosen was 6 months with zero interest, but my bank statement shows interest added and a processing fee for order #ORD61049.",Payment Issue
+CMP-1053,Payment of ₹2450 was deducted via UPI reference #ORD97900 but order status is still showing 'Pending Payment Confirmation' after 24 hours.,Payment Issue
+CMP-1139,"The laptop battery in order #ORD91205 drains in 30 minutes from 100%. Defective unit received, need replacement ASAP.",Product Issue
+CMP-1311,Ticket Update: I would like to inquire about bulk corporate gifting options and whether you provide GST tax invoices for business purchases.,Other
+CMP-1228,Push notifications are not functioning. I missed the flash sale because your mobile application failed to send notifications.,Technical Issue
+CMP-1158,Item received in order #ORD58843 is past its expiration date! Manufacturing date is 2023 and expired 3 months ago. Highly irresponsible.,Product Issue
+CMP-1003,The courier agent called me once and immediately marked the order #ORD13478 as delivery failed due to customer unavailable. I was at home all day!,Delivery Issue
+CMP-1047,I was charged an unexpected convenience fee of ₹2450 on order #ORD63964 that was never disclosed before the final payment swipe.,Payment Issue
+CMP-1055,My payment gateway timed out during checkout for ₹2450. The money left my account but no order confirmation email was sent.,Payment Issue
+CMP-1185,My loyalty reward points and wallet credits worth ₹3999 disappeared from my account balance overnight. Kindly restore them.,Account Issue
+CMP-1163,URGENT: Someone changed the primary email address on my account to an unknown email. I suspect my account has been hacked! Please suspend it now. Please look into this matter.,Account Issue
+CMP-1200,Unable to save new delivery address in my profile. The address book page fails with error 'Unable to update account profile'. This is unacceptable service.,Account Issue
+CMP-1316,The terms and conditions page on your website has outdated copyright information from 2021. Please review your legal documentation.,Other
+CMP-1195,HELP NEEDED: My loyalty reward points and wallet credits worth ₹999 disappeared from my account balance overnight. Kindly restore them.,Account Issue
+CMP-1079,"My wallet balance of ₹2450 was deducted during order #ORD92213 checkout, but the cart crashed and the balance was not restored.",Payment Issue
+CMP-1138,Item received in order #ORD98188 is past its expiration date! Manufacturing date is 2023 and expired 3 months ago. Highly irresponsible.,Product Issue
+CMP-1043,Complaint: Payment of ₹499 was deducted via UPI reference #ORD66057 but order status is still showing 'Pending Payment Confirmation' after 24 hours.,Payment Issue
+CMP-1038,Order #ORD42018 has been out for delivery since 8 AM today and it is now past 10 PM. No delivery made and driver phone is switched off.,Delivery Issue
+CMP-1127,Product dimensions mentioned on product page for #ORD41566 were completely wrong. The furniture does not fit in my room at all.,Product Issue
