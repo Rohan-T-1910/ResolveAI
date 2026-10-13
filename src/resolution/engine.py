@@ -100,6 +100,49 @@ class ResolutionEngine:
             ),
         }
 
+        self.positive_response_templates = {
+            "Delivery Issue": (
+                "Dear Customer, thank you so much for your positive feedback regarding your delivery{order_ref}! "
+                "We are thrilled to know your shipment arrived promptly and in great condition. "
+                "We truly appreciate your support and look forward to serving you again."
+            ),
+            "Product Issue": (
+                "Dear Customer, thank you so much for sharing your wonderful feedback{order_ref}! "
+                "We are delighted to hear that you are pleased with the quality of your item. "
+                "Thank you for shopping with us!"
+            ),
+            "Refund Issue": (
+                "Dear Customer, thank you for your feedback{order_ref}. "
+                "We are glad to know that your refund process was completed smoothly to your satisfaction. "
+                "Thank you for your patience and for choosing us."
+            ),
+            "Payment Issue": (
+                "Dear Customer, thank you for your positive feedback{order_ref}. "
+                "We are pleased to hear that your transaction was handled seamlessly. "
+                "Thank you for your trust and continued support."
+            ),
+            "Cancellation": (
+                "Dear Customer, thank you for your feedback{order_ref}. "
+                "We are glad our support team could assist you promptly with your order request. "
+                "We look forward to serving you again in the future."
+            ),
+            "Account Issue": (
+                "Dear Customer, thank you for your kind feedback! "
+                "We are delighted that your account assistance was resolved smoothly and securely. "
+                "Please reach out anytime you need support."
+            ),
+            "Technical Issue": (
+                "Dear Customer, thank you for your feedback! "
+                "We are glad our platform provided you with a smooth and responsive experience. "
+                "Thank you for being a valued user."
+            ),
+            "Default": (
+                "Dear Customer, thank you so much for your kind words and positive feedback{order_ref}! "
+                "We are delighted to hear about your great experience with our service. "
+                "We truly appreciate your support and look forward to serving you again."
+            ),
+        }
+
     def generate_recommendation(
         self,
         category: str,
@@ -109,7 +152,6 @@ class ResolutionEngine:
     ) -> Dict[str, Any]:
         """Generates resolution department, action items, and suggested response draft."""
         department = CATEGORY_DEPARTMENT_MAP.get(category, "General Customer Support Services")
-        action = self.actions.get(category, self.actions["Other"])
 
         # Extract entity references for personalized draft
         order_ref = ""
@@ -123,25 +165,40 @@ class ResolutionEngine:
             if amounts:
                 amount_ref = f" of {amounts[0]}"
 
-        template = self.response_templates.get(category, self.response_templates["Other"])
-        suggested_response = template.format(order_ref=order_ref, amount_ref=amount_ref)
-
-        # Priority-based agent workflow notes
-        agent_notes = []
-        if priority == "Critical":
-            agent_notes.append("URGENT SLA: 1-hour first-contact target. Immediate manager escalation required.")
-        elif priority == "High":
-            agent_notes.append("HIGH PRIORITY: 4-hour SLA target. Prioritize in queue.")
+        # Handle positive comments/feedback separately
+        if (sentiment or "").strip().lower() == "positive":
+            action = "No action required. Customer provided positive feedback or appreciation."
+            positive_template = self.positive_response_templates.get(
+                category, self.positive_response_templates["Default"]
+            )
+            suggested_response = positive_template.format(order_ref=order_ref, amount_ref=amount_ref)
+            agent_notes = [
+                "POSITIVE FEEDBACK: No resolution action or escalation required. Ticket can be closed as resolved."
+            ]
+            policy_advisory = "Feedback recorded. Share customer appreciation with the respective team."
         else:
-            agent_notes.append("STANDARD SLA: 24-hour standard resolution window.")
+            action = self.actions.get(category, self.actions["Other"])
+            template = self.response_templates.get(category, self.response_templates["Other"])
+            suggested_response = template.format(order_ref=order_ref, amount_ref=amount_ref)
+
+            # Priority-based agent workflow notes
+            agent_notes = []
+            if priority == "Critical":
+                agent_notes.append("URGENT SLA: 1-hour first-contact target. Immediate manager escalation required.")
+            elif priority == "High":
+                agent_notes.append("HIGH PRIORITY: 4-hour SLA target. Prioritize in queue.")
+            else:
+                agent_notes.append("STANDARD SLA: 24-hour standard resolution window.")
+
+            policy_advisory = (
+                "Agent Reminder: Never confirm financial reversals or completed deliveries "
+                "until verified in primary backend enterprise systems."
+            )
 
         return {
             "department": department,
             "recommended_action": action,
             "suggested_response": suggested_response,
             "agent_notes": agent_notes,
-            "policy_advisory": (
-                "Agent Reminder: Never confirm financial reversals or completed deliveries "
-                "until verified in primary backend enterprise systems."
-            ),
+            "policy_advisory": policy_advisory,
         }
