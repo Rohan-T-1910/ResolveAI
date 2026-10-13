@@ -19,3 +19,19 @@ def test_resolution_recommendation():
     # Check strict guardrail: never claims completed action
     assert "has been processed" not in res["suggested_response"]
     assert "has already arrived" not in res["suggested_response"]
+
+
+def test_positive_feedback_recommendation():
+    engine = ResolutionEngine()
+    entities = [{"label": "ORDER_ID", "text": "ORD99881"}]
+    res = engine.generate_recommendation(
+        category="Delivery Issue",
+        priority="Low",
+        entities=entities,
+        sentiment="Positive",
+    )
+
+    assert "No action required" in res["recommended_action"]
+    assert "ORD99881" in res["suggested_response"]
+    assert "thank you" in res["suggested_response"].lower()
+    assert any("positive feedback" in note.lower() for note in res["agent_notes"])
